@@ -1,1 +1,1 @@
-# JS_30DaysChallenge
+# 30 Day Vanilla JS Coding Challenge
